@@ -6,3 +6,4 @@ Olá, meu nome é Kate-Scarpim 👋
 - Estou me desenvolvendo na linguagem JavaScript
 - Utiliso esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
+@kate-Scarpim
